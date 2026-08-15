@@ -1,0 +1,27 @@
+# Android Studio
+.idea/
+*.iml
+local.properties
+
+# Gradle and Kotlin caches
+.gradle/
+.kotlin/
+**/build/
+
+# Diagnostic and temporary build folders
+.android-build/
+.android-diagnostic/
+.android-sdk-diagnostic/
+.gradle-diagnostic/
+
+# APK and app bundles
+*.apk
+*.aab
+
+# Signing files
+*.jks
+*.keystore
+
+# Operating-system files
+.DS_Store
+Thumbs.db
