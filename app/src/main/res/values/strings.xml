@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ArtVision Pro</string>
+    <string name="camera_permission_explanation">Camera access is required to show the live drawing camera preview. ArtVision Pro does not record or upload video.</string>
+</resources>
